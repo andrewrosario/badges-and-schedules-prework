@@ -10,7 +10,7 @@ end
 
 def assign_rooms(names_list)
   i = 0
-  names_list.each 
+  names_list.each do
   "Hello, Edsger! You'll be assigned to room 1!"
 end
 
