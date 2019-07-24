@@ -1,6 +1,7 @@
 
 # Write your code here.
 
-batch_badge_creator
+def batch_badge_creator(names_list)
 
 end
+
