@@ -10,7 +10,10 @@ end
 
 def assign_rooms(names_list)
   i = 0
-  names_list.each do
-  "Hello, Edsger! You'll be assigned to room 1!"
+  names_list.each do |name|
+    puts "Hello, #{name}! You'll be assigned to room #{i}!"
+    i += 1 
+  end
+  
 end
 
