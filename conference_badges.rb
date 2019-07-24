@@ -6,5 +6,6 @@ def batch_badge_creator(names_list)
     badges_array = []
     badges_array << "Hello, my name is #{name}."
     return badges_array
+  end
 end
 
