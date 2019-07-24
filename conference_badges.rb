@@ -9,6 +9,8 @@ def batch_badge_creator(names_list)
 end
 
 def assign_rooms(names_list)
-  
+  i = 0
+  names_list.each 
+  "Hello, Edsger! You'll be assigned to room 1!"
 end
 
