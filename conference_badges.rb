@@ -15,6 +15,6 @@ def assign_rooms(names_list)
     room_array << "Hello, #{name}! You'll be assigned to room #{i}!"
     i += 1 
   end
-  
+  return room_array
 end
 
