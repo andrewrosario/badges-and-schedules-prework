@@ -8,7 +8,7 @@ end
 def batch_badge_creator(names_list)
   names_list.each do |name| 
     badges_array = []
-    badges_array << badge_maker(name)
+    badges_array.push(badge_maker(name))
     return badges_array
   end
 end
